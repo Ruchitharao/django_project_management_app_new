@@ -1,0 +1,2 @@
+# django_project_management_app_new
+project for django_project_management_app_new
