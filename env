@@ -1,0 +1,4 @@
+DB_USER_1=test1
+DB_PASS_2=password
+SECRET_KEY="c0fdb0a836a8b1bb1a0709e9b62cadc0f71fec8a44bc348e"
+DEBUG_VALUE="True"
